@@ -4,8 +4,8 @@
 
 ### Autor: Christian Teodoro De la cruz Rugel
 
-### Correo: 73965552@sencico.edu.pe
-            delacruzcristian002@gmail.com
+### Correo1: 73965552@sencico.edu.pe
+### Correo2: delacruzcristian002@gmail.com
 
 ### Teléfono: 977362264
 
